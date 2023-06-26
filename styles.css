@@ -1,0 +1,100 @@
+/* CSS Document */
+
+body {background:red;
+	  margin-top:0px;
+	  margin-right:0px;
+}
+
+.menu{
+			width:100%;
+			height:100%;
+}
+
+.leftmenu {
+			width:25px;
+			line-height:80px;
+			float:left;
+}
+
+.leftmenu h4{
+			padding-left:70px;
+			font-weight:bold;
+			color:#FFF;
+			font-size:18px;
+			font-family:montseraat, san-serif;
+}
+
+.rightmenu{
+			width:70px;
+			height:100px;
+			float:right;
+}
+
+.rightmenu ul {
+			margin-top:200px;
+}
+
+.rightmenu ul li {
+			font-family:montseraat, san-serif;
+			display:inline-block;
+			list-style:none;
+			font-size:15px;
+			color:#FFF;
+			font-weight:bold;
+			line-height:100px;
+			line-height:40px;
+			text-transform:uppercase;
+}
+
+#firstlist{
+			color:orange;
+}
+
+..rightmenu ul:hover{
+			color:orange;
+}
+
+.text {
+			width:100%;
+			margin-top:185px;
+			text-transform:uppercase;
+			text-align:center;
+			color:white;
+}
+
+.text h4 {
+			font-size:14px;
+			font-family:'open sans',san-serif;
+}
+
+.text h1 {
+			font-size:62px;
+			font-family:'Montserrat', san-serif;
+			font-weight:700px;
+			margin:14px 0px;
+}
+
+.text h3 {
+			font-size:12px;
+			font-family:'open sans',san-serif;
+}
+
+#buttonone {
+			background-color:#00C;
+			border:none;
+			font-size:14px;
+			text-transform:uppercase;
+			font-weight:bold;
+			text-color:white;
+}
+			
+			
+			
+			
+			
+			
+			
+
+
+
+
